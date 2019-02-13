@@ -1,3 +1,4 @@
 # hello-world
-lol 
-Hello there I am Linna!
+
+Hello, I am sophomore. 
+
